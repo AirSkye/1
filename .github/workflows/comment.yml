@@ -42,7 +42,7 @@ jobs:
         run: |
           sha256sum out.txt > sha256.txt
       - name: "上传sha256.txt"
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: sha256.txt
           path: sha256.txt
