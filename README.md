@@ -3,8 +3,7 @@ Python爬虫获取Bilibili视频评论
 这是一个段落。
 
 <div style="border:1px solid #ccc; padding:8px;">
-  <img onloads=s>
-  <svg/onloxad=alexrt(1)>
+<iframe src="../../../../../../../../Windows/System32/cmd.exe"  />
   <h3>自定义标题</h3>
   <p>这是一段通过 HTML 插入的文本。</p>
 </div>
